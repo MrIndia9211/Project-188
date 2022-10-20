@@ -1,0 +1,11 @@
+Model Information:
+* title:	SpaceX Military Division Rifle
+* source:	https://sketchfab.com/3d-models/spacex-military-division-rifle-78666313dbe641209237ea7c1bd8df5e
+* author:	SpaceDassie13 (https://sketchfab.com/SpaceDassie13)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SpaceX Military Division Rifle" (https://sketchfab.com/3d-models/spacex-military-division-rifle-78666313dbe641209237ea7c1bd8df5e) by SpaceDassie13 (https://sketchfab.com/SpaceDassie13) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
